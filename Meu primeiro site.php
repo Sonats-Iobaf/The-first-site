@@ -61,7 +61,7 @@
 	tag B(não semântica). </p>
 	<p>Nesta frase, tenho um <strong>termo em destaque</strong> usando a tag STRONG (semântica).</p>
 	<h3>Italico / Ênfase</h3>
-	<p>Nesta frase, temo um <em>termo em ênfase</em> usando
+	<p>Nesta frase, temos um <em>termo em ênfase</em> usando
 	a tag EM (semântica).</p>
 	<h3>Texto Marcado </h3>
 	<p>Podemos criar também <mark>um texto marcado </mark> usando a tag MARK.</p>
